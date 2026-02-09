@@ -59,7 +59,7 @@ Goal: Detect learner’s cognitive state (focused vs. distracted, fatigued, stre
 Output: Labels that drive adaptive learning (e.g., adjust difficulty, pacing).
 
 2. Data Acquisition
-Use publicly available EEG datasets (e.g., Kaggle Attention Dataset, DEAP, PhysioNet).
+Use publicly available EEG datasets (e.g., Kaggle Attention Dataset, PhysioNet).
 
 Download and store in a structured format (.edf, .csv, .mat).
 
