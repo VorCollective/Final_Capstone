@@ -1,4 +1,4 @@
-### **Neurofeedback Learning Platform: Use EEG sensors to adapt study material based on brain activity.**
+### Neurofeedback Learning Platform: Use EEG sensors to adapt study material based on brain activity.
 
 **Introduction**
 - The Neurofeedback Learning Platform is an AI-driven educational system that leverages EEG (electroencephalography) sensors to personalize study experiences in real time. By monitoring brain activity, the platform dynamically adapts learning materials to match the learner’s cognitive state, enhancing focus, retention, and overall engagement.
@@ -50,7 +50,7 @@
 
 **Self-Regulation**: Teaches learners to recognize and manage their own cognitive states.
 
-### WORKFLOW
+### Workflow
 
 1. Problem Definition
 
